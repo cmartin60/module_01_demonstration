@@ -1,7 +1,7 @@
 # Module 01 Demonstration
 
 ## Description
-Hello World Application
+Displays the text "Hello World!" in the console
 
 ## Authors
 Christian Martin
