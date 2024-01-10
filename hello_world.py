@@ -5,3 +5,4 @@ Date: 09 January 2024
 """
 
 print("Hello World!")
+print("Bonjour le monde!")
